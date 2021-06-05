@@ -4,3 +4,13 @@
   font-weight: 400;
   src: url(../fonts/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf) format('truetype');
 }
+
+.brand-logo-parent{
+  display:flex;
+  align-items:center
+}
+
+.brand-logo-row{
+  display:flex;
+  align-items:center
+}
