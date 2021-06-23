@@ -14,3 +14,9 @@
   display:flex;
   align-items:center
 }
+
+@media(max-width:769px){
+  #col-right-131{
+    display:none;
+  }
+}
