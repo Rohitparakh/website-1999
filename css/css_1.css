@@ -34,6 +34,6 @@ img.logo{
 
 @media(max-width:769px){
   img.logo{
-
+    margin:0;
   }
 }
