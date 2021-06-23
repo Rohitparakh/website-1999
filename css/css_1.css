@@ -20,3 +20,9 @@
     display:none;
   }
 }
+
+@media(min-width:769px){
+  .flex-md{
+    display: flex;
+  }
+}
