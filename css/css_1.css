@@ -64,3 +64,21 @@ img.logo{
   }
 
 }
+@media(max-width:769px){
+  .hide-pc{
+    display: none;
+  }  
+}
+
+
+@media(min-width:769px){
+  .hide-mobile{
+    display: none;
+  }  
+}
+
+@media(max-width:769px){
+ .teamBottom > div > #img-96886 {
+   padding:10px 10px 0 10px;
+ }
+}
