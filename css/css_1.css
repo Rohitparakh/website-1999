@@ -78,7 +78,23 @@ img.logo{
 }
 
 @media(max-width:769px){
- .teamBottom > div > #img-96886 {
-   padding:10px 10px 0 10px;
- }
+  .teamBottom > div > #img-96886 {
+    padding:10px 10px 0 10px;
+  }
+  #col-right-105{
+    position: relative;
+  }
+  #col-right-105 > div{
+    margin-top:40px;
+  }
+  #col-right-105::before{
+    content:'';
+    height:3px;
+    width:70%;
+    position: absolute;
+    top:-20px;
+    left:15%;
+    background: rgba(256,256,256,0.2);
+  }
+
 }
